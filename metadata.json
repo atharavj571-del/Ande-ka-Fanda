@@ -1,0 +1,6 @@
+{
+  "name": "Syllabus AI",
+  "description": "Content Validation & Intelligence Engine that analyzes study material to map syllabi and generate synced Notes, Flashcards, Quizzes, and Interactive Podcasts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
